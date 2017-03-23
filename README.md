@@ -1,4 +1,4 @@
-# MarketMogul
+# ADR-ShareMarket-Updater
 Quick and lightweight stock monitoring app.
 
 This app uses http requests to get JSON data from Google.
